@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeTechAPI", "OfficeTechAPI\OfficeTechAPI.csproj", "{997D2B1B-7F1A-44EC-A185-67EBD4F733D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997D2B1B-7F1A-44EC-A185-67EBD4F733D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D2B1B-7F1A-44EC-A185-67EBD4F733D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D2B1B-7F1A-44EC-A185-67EBD4F733D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D2B1B-7F1A-44EC-A185-67EBD4F733D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

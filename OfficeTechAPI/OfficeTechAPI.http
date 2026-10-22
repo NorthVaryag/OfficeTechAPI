@@ -1,0 +1,6 @@
+@OfficeTechAPI_HostAddress = http://localhost:5064
+
+GET {{OfficeTechAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
